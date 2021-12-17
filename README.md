@@ -8,14 +8,8 @@ Diagrams, Snippets, research
 4. [L2 StarkNet](starknet) - L2 StarNet
 5. [L2 ZkSync](zksync) - L2 ZkSync
 
-----
-<br>
 
-## \#
-
-
-----
-<br>
+<img src="architecture/Blockchain-Architecture-Architecture.jpg" width="500">
 
 ---
 
