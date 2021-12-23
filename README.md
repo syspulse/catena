@@ -8,6 +8,7 @@ Diagrams, Snippets, research
 4. [auth](auth) - Authentication and Authorization
 5. [L2 StarkNet](starknet) - L2 StarNet
 6. [L2 ZkSync](zksync) - L2 ZkSync
+#. [covid](covid) - Covid-Pass infra
 
 
 <img src="architecture/Blockchain-Architecture-Architecture.jpg" width="500">
