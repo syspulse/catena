@@ -8,6 +8,7 @@ Diagrams, Snippets, research
 4. [auth](auth) - Authentication and Authorization
 5. [L2 StarkNet](starknet) - L2 StarNet
 6. [L2 ZkSync](zksync) - L2 ZkSync
+7. [Modular Future](modular) - L1-L2-DA Future modular architectures
 #. [covid](covid) - Covid-Pass infra
 
 
