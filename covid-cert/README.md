@@ -25,7 +25,7 @@ PII data sharing with User's Consent
 4. User validation is done by State App in different flow (BankId, Tax Service certificate)
 
 
-<img src="COVID-Passport-Architecture-CovidPass-Private.jpg" width="900">
+<img src="COVID-Passport-Architecture-CovidPass-Public.jpg" width="900">
 
 ----
 
