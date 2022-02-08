@@ -1,8 +1,16 @@
+# PII Architectures
+
+Diagrams, Snippets, research around PII Distributed Information
+
+## Certificate Chain for TLS
+
+The backbone for Internet trust
+
+<img src="CA-Architecture-Certificate-Chain.jpg" width="900">
+
+
+---
 # Covid-Passport Architectures
-
-Diagrams, Snippets, research
-
-<br>
 
 ## EU Architecture (no PII sharing)
 
